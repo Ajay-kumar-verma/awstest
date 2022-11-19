@@ -1,0 +1,23 @@
+{
+  "name": "awstest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ajay-kumar-verma/awstest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ajay-kumar-verma/awstest/issues"
+  },
+  "homepage": "https://github.com/Ajay-kumar-verma/awstest#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
